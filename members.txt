@@ -1,0 +1,9 @@
+Member 1:
+Student ID: [Insert Member 1 Student ID]
+Name: [Insert Member 1 Full Name]
+Email: [Insert Member 1 University Email]
+
+Member 2:
+Student ID: [Insert Member 2 Student ID]
+Name: [Insert Member 2 Full Name]
+Email: [Insert Member 2 University Email]
