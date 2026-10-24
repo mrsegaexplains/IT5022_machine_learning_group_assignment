@@ -1,9 +1,7 @@
 Member 1:
-Student ID: [Insert Member 1 Student ID]
-Name: [Insert Member 1 Full Name]
-Email: [Insert Member 1 University Email]
+Student ID: MS26928524
+Email: ms26928524@my.sliit.lk
 
 Member 2:
-Student ID: [Insert Member 2 Student ID]
-Name: [Insert Member 2 Full Name]
-Email: [Insert Member 2 University Email]
+Student ID: MS26928456
+Email: ms26928456@my.sliit.lk
