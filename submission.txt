@@ -2,7 +2,10 @@ Dataset Link:
 https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
 
 Public GitHub Repository Link:
-[Insert Your Public GitHub Repo URL Here, e.g., https://github.com/your-username/IT5022-student-dropout-ml]
+https://github.com/mrsegaexplains/IT5022_machine_learning_group_assignment
 
-YouTube Presentation / Demo Video Link:
-[Insert Your Unlisted/Public YouTube Video URL Here]
+YouTube Presentation / Demo Video Link (Student MS26928456):
+https://youtu.be/bz3_MO8KKsc
+
+YouTube Presentation / Demo Video Link (Student MS26928524):
+https://mysliit-my.sharepoint.com/:f:/g/personal/ms26928524_my_sliit_lk/IgA2VW2a1NzKRIEWyttCA-KlAcIm1vsm_TIsCIBT1kHIcI0?e=J8hzWM
